@@ -37,9 +37,9 @@ public class WebhookLib {
 	public String dsUserEmail = "***";
 	public String dsUserPw = "***";
 	public String dsIntegrationId = "***";
-	public String dsSigner1Name = "***"; // Set signer info here or leave as is
+	public String dsSigner1Name = "Vinicius Pardini"; // Set signer info here or leave as is
 											// to use example signers
-	public String dsSigner1Email = "***";
+	public String dsSigner1Email = "vinicius.pardini@docusign.com";
 	public String dsCC1Name = "***"; // Set a cc recipient here or leave as is
 										// to use example recipients
 	public String dsCC1Email = "***";
